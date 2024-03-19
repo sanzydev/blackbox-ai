@@ -9,7 +9,7 @@
 # Usage
 
 ```js
-const { blackbox } = require("blackbox-ai")
+const { blackbox } = require("ai-blackbox")
 ```
 
 # Example
