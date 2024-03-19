@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  },
+  "name": "ai-blackbox",
+  "description": "Free Module Chat Gpt Scraper from blackbox.ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "format": "prettier --write '**/*.{js,json}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanzydev/blackbox-ai.git"
+  },
+  "keywords": [
+    "free-chatgpt",
+    "openai",
+    "chatgpt",
+    "ai",
+    "blackbox-ai",
+    "gpt",
+    "gpt-4"
+  ],
+  "author": "Sanzy Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sannzydev/blackbox-ai/issues"
+  },
+  "homepage": "https://github.com/sanzydev/blackbox-ai#readme"
+}
