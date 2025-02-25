@@ -3,7 +3,7 @@
 # Install
 
 ```sh
-> npm i blackbox-ai
+> npm i ai-blackbox
 ```
 
 # Usage
